@@ -27,4 +27,9 @@ public class GetBookingIdTest {
     public void getBookingIdWithoutFilterTest2()
     {
     }
+
+    @Test
+    public void getBookingIdWithoutFilterTest3()
+    {
+    }
 }
