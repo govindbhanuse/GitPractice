@@ -17,5 +17,14 @@ public class GetBookingIdTest {
 
 
     }
+
+    @Test
+    public void getBookingIdWithoutFilterTest1()
+    {
+    }
+
+    @Test
+    public void getBookingIdWithoutFilterTest2()
+    {
     }
 }
